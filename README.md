@@ -1,3 +1,3 @@
-### Hi there 👋
+<h3 align="center"> Hi there  <img src="https://github.com/gopherpro/gopherpro/blob/animations/assets/hi.gif" width="29px"> </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=GopherPro&show_icons=true&count_private=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gopherpro&show_icons=true&count_private=true"/>

@@ -1,4 +1,4 @@
-# How is GopherPro?
+# Who is GopherPro?
 
 I'm a fan of [Golang](https://github.com/golang/go), [Kubernetes](https://github.com/kubernetes/kubernetes).
 
